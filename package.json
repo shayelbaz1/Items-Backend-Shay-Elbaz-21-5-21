@@ -4,9 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "server:dev": "NODE_ENV=development nodemon app.js",
-    "server:prod": "node app.js",
-    "start node": "nodemon server.js",
     "start": "node server.js"
   },
   "keywords": [],
